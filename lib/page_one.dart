@@ -100,6 +100,10 @@ class _PageOneState extends State<PageOne> {
                     sound: 10, icon: FontAwesomeIcons.running, label: 'Run'),
                 MemeSound(
                     sound: 11, icon: FontAwesomeIcons.biking, label: 'Fast'),
+                MemeSound(
+                    sound: 36,
+                    icon: FontAwesomeIcons.userNinja,
+                    label: 'Ninja'),
               ],
             ),
           ],
